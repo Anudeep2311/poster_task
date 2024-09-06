@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "627821474439",
+    "project_id": "poster-assignment-ede27",
+    "storage_bucket": "poster-assignment-ede27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627821474439:android:6d3dd7dd941244c3ea7e22",
+        "android_client_info": {
+          "package_name": "com.example.poster_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtlLyr9Y1mQbETPwqIeNdS2mOfXOkGKsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
