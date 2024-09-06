@@ -26,7 +26,7 @@ class AuthProvider with ChangeNotifier {
       notifyListeners();
     } catch (e) {
       print(e);
-      throw e;
+      rethrow;
     }
   }
 
@@ -43,7 +43,7 @@ class AuthProvider with ChangeNotifier {
       notifyListeners();
     } catch (e) {
       print(e);
-      throw e;
+      rethrow;
     }
   }
 
